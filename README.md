@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me send a text on my insta id - @_cryptic27_
+- 📫 How to reach me send a text on my telegram- @Satorugojo_hehe
 
 <!---
 crypticdies/crypticdies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
